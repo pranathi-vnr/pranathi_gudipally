@@ -1,0 +1,6 @@
+streamlit
+pandas
+requests
+osmnx
+scikit-learn
+folium
